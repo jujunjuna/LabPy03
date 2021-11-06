@@ -7,10 +7,10 @@
 4.Selesai
 
 # B. Flow Chart Program
-![flowchart](LabPy03/flowchartlatihan1.png)
+![flowchart](flowchartlatihan1.png)
 
 # C. Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
-![program](LabPy/latihan1.png)
+![program](latihan1.png)
 
 # >>urutan pembuatan program
 1.ketikan program print('tampilkan n bilangan acak yang lebih kecil dari 0.5')
@@ -28,7 +28,7 @@
 5.print("Data ke", 1+i,"=>", (random.uniform(0.1,0.5))) Untuk menampilkan atau mencetak urutan data sesuai jumlah inputan dengan hasil di bawah 0.5
 
 # D.Hasil
-![hasil](LabPy03/hasillatihan1.png)
+![hasil](hasillatihan1.png)
 
 # Latihan 2
 # program sederhana untuk menampilkan bilangan terbesar dari n data yang di inputkan
@@ -40,10 +40,10 @@
 5.Selesai
 
 # B. Flowchart program
-![flowchart2](LabPy03/flowchartlatihan2.png)
+![flowchart2](flowchartlatihan2.png)
 
 # C. Program untuk menampilkan bilangan terbesar dari n buah data yang dinputkan
-![program2](LabPy/latihan2.png)
+![program2](latihan2.png)
 
 # ==> Urutan Pembuatan Program
 1.Ketikan Program print ('Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan')
@@ -71,7 +71,7 @@ Ketikan Program print("Bilangan Tebesar Adalah :", max)
 
 7.print("Bilangan Tebesar Adalah :", max) Menampilkan *Bilangan Tebesar Adalah : Nilai maximumnya
 # D.Hasil
-![hasil](LabPy03/hasillatihan2.png)
+![hasil](hasillatihan2.png)
 
 
 # Program 1
@@ -87,10 +87,10 @@ Ketikan Program print("Bilangan Tebesar Adalah :", max)
 selesai
 
 # B. Flowchart Program1
-![flowchartprogram](LabPy03/flowcharprogram1.png)
+![flowchartprogram](flowcharprogram1.png)
 
 # C. Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
-![program1](LabPy03/program1.png)
+![program1](program1.png)
 
 # ==> Urutan Pembuatan Program
 1.Ketikan Program print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan')
@@ -119,4 +119,4 @@ selesai
 7.Z= (a+b+c+d+e+f+g+h) Print (“jumlah laba selama 8 bulan adalah:”) Z berisi data penjumlahan data angka yang ada didalam kode a,b,c,d,e,f,g,h yang akan di tampilakan atau dicetak di jumlah laba selama 8 bulan
 
 # D. Hasil
-![hasil](LabPy03/hasilprogram1.png)
+![hasil](hasilprogram1.png)
