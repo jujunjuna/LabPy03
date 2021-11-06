@@ -87,7 +87,7 @@ Ketikan Program print("Bilangan Tebesar Adalah :", max)
 selesai
 
 # B. Flowchart Program1
-![flowchartprogram](flowcharprogram1.png)
+![flowchartprogram](flowchartprogram1.png)
 
 # C. Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
 ![program1](program1.png)
